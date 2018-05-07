@@ -6,7 +6,7 @@
 
 # References
 https://jasmine.github.io
-
+https://discussions.udacity.com/c/nd001-feed-reader-testing
 
 # Project Overview and Requirements
 
