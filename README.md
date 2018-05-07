@@ -1,11 +1,12 @@
 # Feed Reader Testing
 
-1.  Clone feedreader from my github respository https://github.com/jlpainter70/feedreaderto your local PC/Device.
+1.  Clone feedreader from my github respository https://github.com/jlpainter70/feedreader to your local PC/Device.
 2.  Run index.html to.
 
 
 # References
 https://jasmine.github.io
+
 https://discussions.udacity.com/c/nd001-feed-reader-testing
 
 # Project Overview and Requirements
